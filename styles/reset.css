@@ -1,4 +1,4 @@
-:root { font: 20px/1.2 "Roboto", sans-serif; } /* or html */
+:root { font: 20px/1.2 "Roboto", sans-serif; }
 
 body,
 body * {
@@ -9,3 +9,5 @@ body * {
 	color:           unset;
 	text-decoration: unset;
 }
+
+figure * { display: block; }
